@@ -1,2 +1,2 @@
-Ello. I'm RedstoneGyerek, developer of some minor stuff... I main C#. It's the best.
+Ello. I'm RedstoneGyerek, developer of some minor stuff... I main C# because It's the best. I also like py.
 I make games and Minecraft things in my free time.
